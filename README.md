@@ -1,5 +1,5 @@
 <h1 align="center">Rishi "Azreax" Mehta </h1>
-<h3 align="center">Comp Sci at Iowa State </h3>
+<h3 align="center">Mom's turn their heads when I walk past </h3>
 <img align="right" width="400" src="https://44.media.tumblr.com/64d7d9928aedd5279f9080cc1661aab2/tumblr_olcro4Z0LC1ujca6vo1_540.gif">
 
 -  I’m currently working on **Azreax's Blocklist**
